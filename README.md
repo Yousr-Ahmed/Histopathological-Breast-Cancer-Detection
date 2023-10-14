@@ -9,8 +9,8 @@ This project involves the detection of breast cancer in histopathological images
 ## Installation
 
 1. Clone the repository
-2. Install the required packages using pip install -r requirements.txt
-3. Run the Jupyter Notebook using jupyter notebook
+2. Install the required packages using `pip install -r requirements.txt`
+3. Run the Jupyter Notebook using `jupyter notebook`
 
 ## Dataset
 
